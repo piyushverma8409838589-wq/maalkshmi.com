@@ -1,0 +1,8 @@
+let shopName = "Maa Lakshmi Jewelers";
+let goldRate = 9500;
+let weight = 12;
+
+let total = goldRate * weight;
+
+console.log(shopName);
+console.log("Total Amount = ₹" + total);
